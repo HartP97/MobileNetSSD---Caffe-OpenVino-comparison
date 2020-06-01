@@ -1,7 +1,7 @@
 # MobileNetSSD Caffe-OpenVino-comparison
 This project indicates performance differences of using MobileNetSSD with Caffe and OpenVino
 ```diff
-- it does not contain the used video for legal reasons
+- it does not contain the used video for legal reasons as it is property of Udacity
 ```
 ## Caffe vs. OpenVino
 *(size, execution-time, CPU-usage)*
